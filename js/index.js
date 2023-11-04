@@ -1,4 +1,4 @@
-const url = `https://admin-dashboard-json-server-sabiransari1.onrender.com`;
+const url = ``;
 
 const paramObj = {
   _limit: 10,
